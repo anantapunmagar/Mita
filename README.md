@@ -1,3 +1,11 @@
-# Melodisc 
+# Mita 
 
 Just a Bot made for no reason.
+
+A simple music bot build with extra fall back protection for free.
+
+Mita is bot formerly known as Melodics. Mita is successor of Melodics with better codes and better everthing overall, Mita bot is not out yet but you can use/review old Melodics bot.
+Maybe in the future i will release the Mita's code to public when we hit 15 stars in this repo.
+
+if you want to use Mita Music bot then add it your server by clicking the link below.
+https://discord.com/oauth2/authorize?client_id=1497971462122897548&permissions=8&integration_type=0&scope=bot+applications.commands
