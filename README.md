@@ -6,5 +6,5 @@ Mita is a successor of Melodics with better codes and better everything overall.
 
 Maybe in the future i will release the Mita's code to public when we hit 15 stars in this repo.
 
-if you want to use Mita Music bot then add it your server by clicking the link below.
+if you just want to use Mita Music bot then add it your server by clicking the link below.
 https://discord.com/oauth2/authorize?client_id=1497971462122897548&permissions=8&integration_type=0&scope=bot+applications.commands
