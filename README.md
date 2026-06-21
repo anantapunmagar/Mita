@@ -2,7 +2,7 @@
 
 A simple music bot build with advance fall back protection and extra bot features.
 
-Mita is a successor of Melodics with better codes and better everthing overall. Mita is a music bot formerly known as Melodics. Mita music bot's code is not public yet but you can use/review old Melodics bot code.
+Mita is a successor of Melodics with better codes and better everything overall. Mita is a music bot formerly known as Melodics. Mita music bot's code is not public yet but you can use/review old Melodics bot code.
 
 Maybe in the future i will release the Mita's code to public when we hit 15 stars in this repo.
 
